@@ -1,5 +1,8 @@
 # Gene Expression Analyzer
 
+## URL
+https://ewelch7.shinyapps.io/gene_expression_analyzer/
+
 ## Overview
 This is a Shiny app designed to analyze gene expression data. It allows users to upload their data, view summary statistics, generate plots, and perform ANOVA analysis.
 
