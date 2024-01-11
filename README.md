@@ -1,5 +1,7 @@
 # GeneAnalyzeR Shiny App
 
+[![DOI](https://zenodo.org/badge/739596335.svg)](https://zenodo.org/doi/10.5281/zenodo.10483599)
+
 ## URL
 https://ewelch7.shinyapps.io/gene_expression_analyzer/
 
