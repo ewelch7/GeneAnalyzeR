@@ -1,4 +1,4 @@
-# Gene Expression Analyzer
+# GeneAnalyzeR Shiny App
 
 ## URL
 https://ewelch7.shinyapps.io/gene_expression_analyzer/
